@@ -1,5 +1,23 @@
-* {
+  div{
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
+}
+
+h1{
+  padding: 15px;
+  width: 50%;
+  margin-bottom:15px
+}
+
+p{
+  margin-top: 20px;
+}
+
+li{
+  color:red;
+  padding: 10px;
+  border: 10%;
+  background-color: blue;
+  text-align: center;
 }
