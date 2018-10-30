@@ -1,5 +1,21 @@
-* {
+div {
   margin: 0px;
-  padding: 0px;
-  border: 1px solid red;
+  padding: 20px;
+  border: 1px solid black;
+  border-block-end: 20px
+}
+
+h1 {
+    padding-left: 50px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+li {
+    margin: 20px;
+    border-width: 5px;
 }
