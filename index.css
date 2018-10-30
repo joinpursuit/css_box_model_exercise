@@ -1,5 +1,16 @@
-* {
+*{
   margin: 0px;
   padding: 0px;
-  border: 1px solid red;
+  border: 20px dotted green;
+}
+
+h1 {
+  text-align: center;
+  padding: 15px;
+  width: 70%;
+  margin-bottom: 20px;
+  color: rgb(143, 66, 244);
+}
+p {
+  margin-top: 20px;
 }
