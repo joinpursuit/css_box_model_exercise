@@ -1,5 +1,28 @@
-* {
+div {
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
 }
+ h1 {
+   padding: 15px;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   width: 15px;
+   margin-bottom: 16px;
+ }
+ p {
+   margin-top: 12px;
+ }
+ li {
+   border-style: solid;
+   border-color: pink;
+   border-width: 5px;
+   padding: 10px;
+   margin-top: 12px
+ }
+
+ #skills {
+   border-style: dotted;
+   border-width: 13px;
+   border-color: blue;
+ }
