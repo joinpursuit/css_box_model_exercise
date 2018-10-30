@@ -1,5 +1,49 @@
-* {
+div {
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
+}
+#bod {
+  background-image: linear-gradient(cyan, purple);
+}
+div {
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+  text-align: center;
+  color: red;
+  padding: 25px;
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+ol {
+  font-weight: bold;
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  border: 10px solid blue;
+  border-radius: 10px;
+  color: blue;
+  background-color: white;
+  margin: 10px;
+  border: 1px;
+  padding: 10px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3 {
+  text-decoration: underline;
 }
