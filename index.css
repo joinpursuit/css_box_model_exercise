@@ -1,5 +1,30 @@
-* {
-  margin: 0px;
-  padding: 0px;
-  border: 1px solid red;
+div {
+  width: 400px;
+  height: 600px;
+  border: 10px solid red;
+  margin: 30px;
+  padding: 70px;
+  text-align: justify;
+}
+
+h1{
+  padding: 15%;
+  padding-left: 4%;
+  padding-right: 10%;
+  padding-top: 20%;
+  padding-bottom: 13%;
+  width: 50%;
+  margin-bottom: 20%;
+  border-spacing: 10%
+}
+h2{
+  border: 50px;
+}
+p{
+  margin-top: 20px;
+}
+li{
+  margin: 25px;
+  border: 10px solid yellow;
+
 }
