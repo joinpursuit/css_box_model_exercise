@@ -1,5 +1,42 @@
-* {
+div#libr_skills {
+  margin: 0px;
+  padding-left: 20px;
+  border: 15px solid red;
+}
+
+div#lang_skills {
+  text-align: right;
+  margin: 0px;
+  padding-right: 30px;
+  border: 15px solid pink;
+}
+
+div#struggle {
+  text-align: center;
   margin: 0px;
   padding: 0px;
-  border: 1px solid red;
+  border: 15px solid blue;
+}
+
+h1 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+div#contact {
+  text-align: center;
+  margin: 0px;
+  padding: 50px;
+  border: 15px solid orange;
+}
+
+div ul li {
+  list-style-type: none;
+
+}
+
+p {
+  margin-top: 50px;
 }
