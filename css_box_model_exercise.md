@@ -1,4 +1,4 @@
-From your css_into exercise add the following code to the beginning of your css file.
+<!-- From your css_into exercise add the following code to the beginning of your css file.
 ```css
 * {
   margin: 0px;
@@ -12,7 +12,7 @@ This is a good visualization of the css box model. Notice how every html element
 
 1. Add a padding of 15px to your h1. Notice that red lines stay together? Experiment with your padding size and see what happens when your change specific padding sides. Exp: padding-left: 50px.
 
-2. Change the width of your h1 tag to a different percentage.
+2. Change the width of your h1 tag to a different percentage. -->
 
 3. Now add a margin bottom of 20px to your h1 tag and see what happens. Notice that the red lines separate?
 
