@@ -1,0 +1,63 @@
+div {
+  margin: 0;
+  padding: 0;
+  border: 1px solid red;
+}
+
+h1 {
+  padding: 15px;
+  padding-left: 25px;
+  padding-right: 30px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+
+p {
+  margin-top: 20px;
+}
+
+li {
+  margin: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  padding-bottom: 15px;
+  padding-right: 25px;
+  border: 1px solid blue;
+}
+
+
+div#skills {
+  margin: 15px;
+  border: 3px solid brown;
+}
+
+
+
+div#bugg {
+  margin: 15px;
+  padding: 30px;
+  border: 2px solid black;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+}
+
+#url {
+  border-bottom: 3px solid green;
+  margin: 5px;
+  margin-left: 2px;
+  padding: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+div#contact {
+  padding: 30px;
+  border: 2px solid green;
+}
