@@ -1,5 +1,151 @@
-* {
+/* * {
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
+} */
+
+body {
+  background-image: linear-gradient(to right, red, yellow);
+  font-family: "satisfy", cursive;
+  font-size: 22px;
+  font-stretch:extra-expanded;
+}
+/* font-family: sans-serif; */
+
+/* background-image: linear-gradient (-90deg, red, yellow) */
+
+div {
+  margin-top: 50px;
+  margin-left: 20px;
+  /* padding: */
+  /* border: 2px solid orange; */
+  /* border-radius: 5px; */
+}
+
+#lists {
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: "Great Vibes", cursive;
+  font-size: 100px;
+  color: green;
+  text-align: center;
+
+  /* padding: 15px; */
+  /* padding-left: 32%; */
+  width: 75%;
+  padding: 0px;
+  margin-bottom: 20px;
+  margin: auto;
+
+}
+
+#separator2 {
+  direction: rtl;
+  /* width: 700px;
+  height: 200px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0px;
+  padding: 0px;
+  margin: auto;
+}
+
+/* #separator2 {
+  width: 500px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+} */
+
+/* #name {
+  margin: 0px;
+} */
+
+#top {
+  padding-top: 0px;
+  margin-top: opx;
+}
+
+p {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+/* #space {
+  margin-top: 25px;
+} */
+
+h2 {
+  font-family: "courgette", cursive;
+
+}
+
+h3 {
+  font-family: "courgette", cursive;
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  font-family: "courgette", cursive;
+}
+
+ol {
+  font-family: "courgette", cursive;
+  font-weight: bold;
+}
+
+li {
+  text-align: center;
+  /* border: 1px solid red; */
+  border-radius: 5px;
+  color: blue;
+  background-color: lightpink;
+
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid orange;
+
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#halo {
+  margin-top: 20px;
+}
+
+/* #last {
+  margin-bottom: 30px;
+} */
+
+form {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#area {
+  width: 300px;
+  height: 25px;
+  border-radius: 5px;
+  font-family: "courgette", cursive;
+  font-size: 20px;
+  padding-left: 5px;
+}
+
+#button {
+  width: 70px;
+  height: 25px;
+  font-family: cursive;
+  font-size: 16px;
+  border-radius: 5px;
 }

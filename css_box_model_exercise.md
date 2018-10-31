@@ -1,3 +1,5 @@
+https://fonts.google.com/?selection.family=Courgette|Great+Vibes|Satisfy#ChoosePlace:select
+
 From your css_into exercise add the following code to the beginning of your css file.
 ```css
 * {
