@@ -1,0 +1,64 @@
+*{
+    font-family: sans-serif
+}
+
+body{
+    background-image: linear-gradient(55deg, rgb(206, 206, 0), rgb(243, 219, 3))
+}
+
+h1{
+    font-size: 123px;
+    align-self: auto;
+    margin: 0%;
+    color: brown;
+    font-family: 'Mali',cursive;
+    padding: 0%;
+    text-align: center;
+}
+
+h3{
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: wavy; 
+}
+
+ul{
+    list-style: none;
+    align-content: center;
+}
+
+ol{
+    font-weight: 900;
+    align-content: center;
+    padding: 12px;
+}
+
+li{
+    text-align: center;
+    padding: 15px;
+    color: blue;
+    background-color: pink;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+#img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+#Contact{
+padding: 0%;
+margin: 0%;
+width: auto;
+}
