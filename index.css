@@ -1,5 +1,16 @@
-* {
+div {
   margin: 0px;
   padding: 0px;
   border: 1px solid red;
+  }
+h1 {padding: 15px;
+    width: 85%;
+    margin-bottom: 20px;
+  }
+
+p {margin-top: 20px;
+}
+
+li {border: 3px solid pink;
+    padding: 15px;
 }
