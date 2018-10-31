@@ -3,3 +3,37 @@
   padding: 0px;
   border: 1px solid red;
 }
+
+h1 {
+  padding: 15px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+li {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-style: dotted;
+}
+
+ul {
+  border: 20px solid pink;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+ol {
+  border: 20px solid lightblue;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  border: 10px double yellow;
+  margin-top: 50px;
+}
